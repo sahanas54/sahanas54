@@ -1,4 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Mali:ital,wght@0,200;0,400;1,300&display=swap');
+*{
+  font-family: Mali;
+  font-size: 16px;
+}
 html, body {
   height: 100%;
   width: 100%;
 }
+
+
+
+
+#left{
+  border: 4px solid #ffffff;
+  border-radius: 15%;
+  color:#ffffff;
+  height: 200px;
+  width:200px;
+  background: #70c2f5;
+  text-align: center;
+  background-image: linear-gradient(#70c2f5, #a8d1f0);
+  
+ 
+
+}
+
+#mid{
+  border: 4px solid #ffffff;
+  border-radius: 15%;
+  color:#ffffff;
+  height: 200px;
+  width:200px;
+  background: #70c2f5;
+    text-align: center;
+background-image: linear-gradient(#b06bf5, #d9a8f0);
+
+
+}
+
+#right{
+  
+  border: 4px solid #ffffff;
+  border-radius: 15%;
+  color: #ffffff;
+  height: 200px;
+  width:200px; 
+  background: #70c2f5;
+    text-align: center;
+  background-image: linear-gradient(#f47cea, #f0a8ce);
+
+
+  
+}
+.BigBox{
+  border: 4px solid #ffffff;
+  border-radius: 15%;
+  width:620px;
+  display: flex;
+}
+
+
+
+
+
